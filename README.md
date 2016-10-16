@@ -3,21 +3,6 @@
 本文是一篇 Git 的風格指南，受到 [*How to Get Your Change Into the Linux
 Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches) 以及 [git 操作手冊](http://git-scm.com/doc)和流傳於社群間的最佳實踐所啟發。
 
-本指南有其它語言的翻譯：
-
-* [原文](https://github.com/agis-/git-style-guide)
-* [简体中文](https://github.com/aseaday/git-style-guide)
-* [葡萄牙文](https://github.com/guylhermetabosa/git-style-guide)
-* [法文](https://github.com/pierreroth64/git-style-guide)
-* [希臘文](https://github.com/grigoria/git-style-guide)
-* [日文](https://github.com/objectx/git-style-guide)
-* [韓文](https://github.com/ikaruce/git-style-guide)
-* [葡萄牙文](https://github.com/guylhermetabosa/git-style-guide)
-* [泰文](https://github.com/zondezatera/git-style-guide)
-* [烏克蘭文](https://github.com/denysdovhan/git-style-guide)
-
-想要貢獻嗎？非常好！複製（Fork）本專案並發送一個收取要求（Pull Request）吧。
-
 # 目錄
 
 * [分支](#分支)
