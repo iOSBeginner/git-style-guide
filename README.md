@@ -30,7 +30,7 @@ Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches) 以及 [git
   $ git checkout -b issue-15
   ```
 
-* 使用**連接符號（dash）**來分隔英文單字。
+* 使用「 _ 」來分隔英文單字，不要用「 - 」，閱讀起來比較舒服，而且這樣寫雙擊分支名稱時才可以把整個分支的撐都選取。
 
 * 幾個人一起開發**同一個**功能的時候，有**自己的**功能分支（Feature branch）以及**團隊共用**的功能分支可能會比較方便。可考慮以下的命名慣例：
 
