@@ -51,7 +51,7 @@ Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches) 以及 [git
   $ git branch --merged | grep -v "\*"
   ```
 
-## 提交
+## 提交（commit）
 
 * 每次提交應該都是單一的**邏輯變動**。一個提交裡不要做多個**邏輯變動**。譬如若一個修補檔案（Patch），修復錯誤同時最佳化了效能，則將其分為兩次獨立的提交。
 
